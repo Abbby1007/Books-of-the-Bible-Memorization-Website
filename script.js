@@ -32,3 +32,37 @@ function newQuestion3(){
 
 }
 
+function newQuestion4(){
+  click ++;
+  if(click === 1){
+    document.getElementById("button-appear").innerHTML = '<a href = "newQuestion5.html"> <button> Move on </button> </a>'
+}
+}
+
+function newQuestion5(){
+  click ++;
+  if(click === 1){
+    document.getElementById("button-appear").innerHTML = '<a href = "newQuestion6.html"> <button> Move on </button> </a>'
+}
+}
+
+function newQuestion6(){
+  click ++;
+  if(click === 1){
+    document.getElementById("button-appear").innerHTML = '<a href = "newQuestion7.html"> <button> Move on </button> </a>'
+}
+}
+
+function newQuestion7(){
+  click ++;
+  if(click === 1){
+    document.getElementById("button-appear").innerHTML = '<a href = "newQuestion8.html"> <button> Move on </button> </a>'
+}
+}
+
+function newQuestion8(){
+  click ++;
+  if(click === 1){
+    document.getElementById("button-appear").innerHTML = '<a href = "newQuestion9.html"> <button> Move on </button> </a>'
+}
+}
