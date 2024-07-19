@@ -10,21 +10,24 @@
 </head>
 
 <body>
-  <button id="ROCK">ROCK</button>
+  
   <script src="script.js"></script>
-  <h1> New Testiment Question 1</h1>
+ 
 <div id="gameArea"> 
-  <div id= "result"> </div>
+  <h3> What is the first book of the bible? </h3>
+  
 <div> 
-  <button onclick="questionOne(`ChoiceA`)" id="choiceA"> A</button> 
-  <button  onclick= "move()" id="choiceB"> B</button>
+  <button onclick="restart()" id="choiceA"> Leviticus </button> <!-- wrong answer -->
+  <button  onclick= "newQuestion1()" id="choiceB"> Genesis </button> <!-- correct answer -->
 </div>
 
   <div> 
-    <button id="choiceC"> C </button> 
-    <button id="choiceD"> D </button>
+    <button onclick= "restart()" id="choiceC"> Numbers </button> <!-- wrong answer -->
+    <button onclick= "restart()" id="choiceD"> Exodus </button> <!-- wrong answer -->
+
+ <div id= "button-appear"> </div>
+    
   </div>
-<div id="button-appear"> </div>  
 </div>
 </body>
 
