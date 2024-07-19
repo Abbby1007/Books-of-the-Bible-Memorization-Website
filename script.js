@@ -24,3 +24,11 @@ function newQuestion2(){
 
 }
 
+function newQuestion3(){
+ click ++;
+  if(click === 1){
+    document.getElementById("button-appear").innerHTML = '<a href = "newQuestion4.html"> <button> Move on </button> </a>'
+  }
+
+}
+
