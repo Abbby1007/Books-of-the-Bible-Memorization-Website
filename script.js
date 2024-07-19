@@ -1,3 +1,4 @@
+
 var click = 0;
 
 function restart(){
