@@ -227,3 +227,59 @@ function newQuestion31(){
       document.getElementById("button-appear").innerHTML = '<a href = "newQuestion32.html"> <button> Move on </button> </a>'
   }
 }
+
+function newQuestion32(){
+  click ++;
+    if(click === 1){
+      document.getElementById("button-appear").innerHTML = '<a href = "newQuestion33.html"> <button> Move on </button> </a>'
+  }
+}
+
+function newQuestion33(){
+  click ++;
+    if(click === 1){
+      document.getElementById("button-appear").innerHTML = '<a href = "newQuestion34.html"> <button> Move on </button> </a>'
+  }
+}
+
+function newQuestion34(){
+  click ++;
+    if(click === 1){
+      document.getElementById("button-appear").innerHTML = '<a href = "newQuestion35.html"> <button> Move on </button> </a>'
+  }
+}
+
+function newQuestion35(){
+  click ++;
+    if(click === 1){
+      document.getElementById("button-appear").innerHTML = '<a href = "newQuestion36.html"> <button> Move on </button> </a>'
+  }
+}
+
+function newQuestion36(){
+  click ++;
+    if(click === 1){
+      document.getElementById("button-appear").innerHTML = '<a href = "newQuestion37.html"> <button> Move on </button> </a>'
+  }
+}
+
+function newQuestion37(){
+  click ++;
+    if(click === 1){
+      document.getElementById("button-appear").innerHTML = '<a href = "newQuestion38.html"> <button> Move on </button> </a>'
+  }
+}
+
+function newQuestion38(){
+  click ++;
+    if(click === 1){
+      document.getElementById("button-appear").innerHTML = '<a href = "newQuestion39.html"> <button> Move on </button> </a>'
+  }
+}
+
+function newQuestion39(){
+  click ++;
+    if(click === 1){
+      document.getElementById("button-appear").innerHTML = '<a href = "congratulations.html"> <button> Move on </button> </a>'
+  }
+}
