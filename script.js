@@ -164,3 +164,31 @@ function newQuestion22(){
       document.getElementById("button-appear").innerHTML = '<a href = "newQuestion23.html"> <button> Move on </button> </a>'
   }
 }
+
+function newQuestion23(){
+  click ++;
+    if(click === 1){
+      document.getElementById("button-appear").innerHTML = '<a href = "newQuestion24.html"> <button> Move on </button> </a>'
+  }
+}
+
+function newQuestion24(){
+  click ++;
+    if(click === 1){
+      document.getElementById("button-appear").innerHTML = '<a href = "newQuestion25.html"> <button> Move on </button> </a>'
+  }
+}
+
+function newQuestion25(){
+  click ++;
+    if(click === 1){
+      document.getElementById("button-appear").innerHTML = '<a href = "newQuestion26.html"> <button> Move on </button> </a>'
+  }
+}
+
+function newQuestion26(){
+  click ++;
+    if(click === 1){
+      document.getElementById("button-appear").innerHTML = '<a href = "newQuestion27.html"> <button> Move on </button> </a>'
+  }
+}
