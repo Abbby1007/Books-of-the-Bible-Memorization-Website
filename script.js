@@ -1,4 +1,3 @@
-
 var click = 0;
 
 function restart(){
@@ -66,4 +65,31 @@ function newQuestion8(){
   if(click === 1){
     document.getElementById("button-appear").innerHTML = '<a href = "newQuestion9.html"> <button> Move on </button> </a>'
 }
+}
+function newQuestion9(){
+  click ++;
+    if(click === 1){
+      document.getElementById("button-appear").innerHTML = '<a href = "newQuestion10.html"> <button> Move on </button> </a>'
+  }
+}
+
+function newQuestion10(){
+  click ++;
+    if(click === 1){
+      document.getElementById("button-appear").innerHTML = '<a href = "newQuestion11.html"> <button> Move on </button> </a>'
+  }
+}
+
+function newQuestion11(){
+  click ++;
+    if(click === 1){
+      document.getElementById("button-appear").innerHTML = '<a href = "newQuestion12.html"> <button> Move on </button> </a>'
+  }
+}
+
+function newQuestion12(){
+  click ++;
+    if(click === 1){
+      document.getElementById("button-appear").innerHTML = '<a href = "newQuestion13.html"> <button> Move on </button> </a>'
+  }
 }
