@@ -51,3 +51,31 @@ function realNewQuestion6(){
     document.getElementById("button-appear").innerHTML = '<a href = "realNewQuestion7.html"> <button> Move on </button> </a>'
   }
 }
+
+function realNewQuestion7(){
+ click ++;
+  if(click === 1){
+    document.getElementById("button-appear").innerHTML = '<a href = "realNewQuestion8.html"> <button> Move on </button> </a>'
+  }
+}
+
+function realNewQuestion8(){
+ click ++;
+  if(click === 1){
+    document.getElementById("button-appear").innerHTML = '<a href = "realNewQuestion9.html"> <button> Move on </button> </a>'
+  }
+}
+
+function realNewQuestion9(){
+ click ++;
+  if(click === 1){
+    document.getElementById("button-appear").innerHTML = '<a href = "realNewQuestion10.html"> <button> Move on </button> </a>'
+  }
+}
+
+function realNewQuestion10(){
+ click ++;
+  if(click === 1){
+    document.getElementById("button-appear").innerHTML = '<a href = "realNewQuestion11.html"> <button> Move on </button> </a>'
+  }
+}
