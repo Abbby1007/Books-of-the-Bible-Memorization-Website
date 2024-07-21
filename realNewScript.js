@@ -23,3 +23,31 @@ function realNewQuestion2(){
     document.getElementById("button-appear").innerHTML = '<a href = "realNewQuestion3.html"> <button> Move on </button> </a>'
   }
 }
+
+function realNewQuestion3(){
+ click ++;
+  if(click === 1){
+    document.getElementById("button-appear").innerHTML = '<a href = "realNewQuestion4.html"> <button> Move on </button> </a>'
+  }
+}
+
+function realNewQuestion4(){
+ click ++;
+  if(click === 1){
+    document.getElementById("button-appear").innerHTML = '<a href = "realNewQuestion5.html"> <button> Move on </button> </a>'
+  }
+}
+
+function realNewQuestion5(){
+ click ++;
+  if(click === 1){
+    document.getElementById("button-appear").innerHTML = '<a href = "realNewQuestion6.html"> <button> Move on </button> </a>'
+  }
+}
+
+function realNewQuestion6(){
+ click ++;
+  if(click === 1){
+    document.getElementById("button-appear").innerHTML = '<a href = "realNewQuestion7.html"> <button> Move on </button> </a>'
+  }
+}
