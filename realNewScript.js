@@ -157,3 +157,47 @@ function realNewQuestion21(){
     document.getElementById("button-appear").innerHTML = '<a href = "realNewQuestion22.html"> <button> Move on </button> </a>'
   }
 }
+
+function realNewQuestion22(){
+ click ++;
+  if(click === 1){
+    document.getElementById("button-appear").innerHTML = '<a href = "realNewQuestion23.html"> <button> Move on </button> </a>'
+  }
+}
+
+function realNewQuestion23(){
+ click ++;
+  if(click === 1){
+    document.getElementById("button-appear").innerHTML = '<a href = "realNewQuestion24.html"> <button> Move on </button> </a>'
+  }
+}
+
+function realNewQuestion24(){
+ click ++;
+  if(click === 1){
+    document.getElementById("button-appear").innerHTML = '<a href = "realNewQuestion25.html"> <button> Move on </button> </a>'
+  }
+}
+
+function realNewQuestion25(){
+ click ++;
+  if(click === 1){
+    document.getElementById("button-appear").innerHTML = '<a href = "realNewQuestion26.html"> <button> Move on </button> </a>'
+  }
+}
+
+function realNewQuestion26(){
+ click ++;
+  if(click === 1){
+    document.getElementById("button-appear").innerHTML = '<a href = "realNewQuestion27.html"> <button> Move on </button> </a>'
+  }
+}
+
+function realNewQuestion27(){
+ click ++;
+  if(click === 1){
+    document.getElementById("button-appear").innerHTML = '<a href = "realNewCongratulations.html"> <button> Move on </button> </a>'
+  }
+}
+
+
