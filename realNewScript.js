@@ -122,3 +122,38 @@ function realNewQuestion16(){
     document.getElementById("button-appear").innerHTML = '<a href = "realNewQuestion17.html"> <button> Move on </button> </a>'
   }
 }
+
+function realNewQuestion17(){
+ click ++;
+  if(click === 1){
+    document.getElementById("button-appear").innerHTML = '<a href = "realNewQuestion18.html"> <button> Move on </button> </a>'
+  }
+}
+
+function realNewQuestion18(){
+ click ++;
+  if(click === 1){
+    document.getElementById("button-appear").innerHTML = '<a href = "realNewQuestion19.html"> <button> Move on </button> </a>'
+  }
+}
+
+function realNewQuestion19(){
+ click ++;
+  if(click === 1){
+    document.getElementById("button-appear").innerHTML = '<a href = "realNewQuestion20.html"> <button> Move on </button> </a>'
+  }
+}
+
+function realNewQuestion20(){
+ click ++;
+  if(click === 1){
+    document.getElementById("button-appear").innerHTML = '<a href = "realNewQuestion21.html"> <button> Move on </button> </a>'
+  }
+}
+
+function realNewQuestion21(){
+ click ++;
+  if(click === 1){
+    document.getElementById("button-appear").innerHTML = '<a href = "realNewQuestion22.html"> <button> Move on </button> </a>'
+  }
+}
