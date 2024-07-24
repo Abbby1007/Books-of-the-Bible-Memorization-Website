@@ -91,9 +91,80 @@ function pageNumbers() {
   //  Nehemiah page number end
 
   //  Esther page number start
-   estherPage = document.getElementById("estherPage").value;
+  estherPage = document.getElementById("estherPage").value;
   console.log(`Esther page Number: ${estherPage}`)
   //   Esther page number end
 
+  //  Job page number start
+  jobPage = document.getElementById("jobPage").value;
+  console.log(`Job page Number: ${jobPage}`)
+  //   Job page number end
+
+  //  Psalms page number start
+  psalmsPage = document.getElementById("psalmsPage").value;
+  console.log(`Psalms page Number: ${psalmsPage}`)
+  //   Psalms page number end
+
+  //  Proverbs page number start
+  proverbsPage = document.getElementById("proverbsPage").value;
+  console.log(`Proverbs page Number: ${proverbsPage}`)
+  //   Proverbs page number end
+
+  //  Ecclesiastes page number start
+  ecclesiastesPage = document.getElementById("ecclesiastesPage").value;
+  console.log(`Ecclesiastes page Number: ${ecclesiastesPage}`)
+  //   Ecclesiastes page number end
+
+  //  Song of Soloman page number start
+  songOfSolomanPage = document.getElementById("songOfSolomanPage").value;
+  console.log(`Song of Soloman page Number: ${songOfSolomanPage}`)
+  //   Song of Soloman page number end
+
+  //  Isaiah page number start
+  isaiahPage = document.getElementById("isaiahPage").value;
+  console.log(`Isaiah page Number: ${isaiahPage}`)
+  //  Isaiah page number end
+
+  //  Jeremiah page number start
+  jeremiahPage = document.getElementById("jeremiahPage").value;
+  console.log(`Jeremiah page Number: ${jeremiahPage}`)
+  //  Jeremiah page number end
+
+  //  Lamentations page number start
+  lamentationsPage = document.getElementById("lamentationsPage").value;
+  console.log(`Lamentations page Number: ${lamentationsPage}`)
+  //  Lamentations page number end
+
+  //  Ezekiel page number start
+  ezekielPage = document.getElementById("ezekielPage").value;
+  console.log(`Ezekiel page Number: ${ezekielPage}`)
+  //  Ezekiel page number end
+
+  //  Daniel page number start
+  danielPage = document.getElementById("danielPage").value;
+  console.log(`Daniel page Number: ${danielPage}`)
+  //  Daniel page number end
+
+  //  Hosea page number start
+  hoseaPage = document.getElementById("hoseaPage").value;
+  console.log(`Hosea page Number: ${hoseaPage}`)
+  //  Hosea page number end
+
+  //  Joel page number start
+  joelPage = document.getElementById("joelPage").value;
+  console.log(`Joel page Number: ${joelPage}`)
+  //  Joel page number end
+
+  //  Amos page number start
+  amosPage = document.getElementById("amosPage").value;
+  console.log(`Amos page Number: ${amosPage}`)
+  //  Amos page number end
+
+  //  Obadiah page number start
+  obadiahPage = document.getElementById("obadiahPage").value;
+  console.log(`Obadiah page Number: ${obadiahPage}`)
+  //  Obadiah page number end
+
+  
 }
 
