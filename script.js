@@ -295,9 +295,39 @@ const display = document.getElementById('appear');
 const roundDisplay = document.getElementById('round');
 
 
-function test (){
-  username = document.getElementById("myText").value;
-  finalMessage = `userName: ${username}`;
-  console.log(username);
+let genesisPage;
+let exodusPage;
+function pageNumbers (){
+  // Genesis Page number start
+  genesisPage = document.getElementById("genesisPage").value;
+console.log(`Genesis page Number: ${genesisPage}`)
+  // Genesis end
+
+  // Exodus page number start
+  exodusPage = document.getElementById("exodusPage").value;
+  console.log(`Exodus page Number: ${exodusPage}`)
+  // Exodus page number end
+
+  // Leviticus page number start
+  leviticusPage = document.getElementById("leviticusPage").value;
+  console.log(`Leviticus page Number: ${leviticusPage}`)
+  // Leviticus page number end
+
+  // Numbers page number start
+  numbersPage = document.getElementById("numbersPage").value;
+  console.log(`Numbers page Number: ${numbersPage}`)
+  // Numbers page number end
+
+  //  Deuteronomy page number start
+  deuteronomyPage = document.getElementById(" deuteronomyPage").value;
+  console.log(`Numbers page Number: ${deuteronomyPage}`)
+  //  Deuteronomy page number end
+
+  // Joshua page number start
+  joshuaPage = document.getElementById("joshuaPage").value;
+  console.log(`Joshua page Number: ${joshuaPage}`)
+  // Joshua page number end
+ 
+
 }
 
