@@ -283,3 +283,21 @@ function newQuestion39(){
       document.getElementById("button-appear").innerHTML = '<a href = "congratulations.html"> <button> Move on </button> </a>'
   }
 }
+
+let username;
+let finalMessage = "";
+let currentRound = 1;
+const totalRound = 3; // total rounds can change with each level
+// document.getElementById("mySubmit").onclick = function(){
+ 
+// }
+const display = document.getElementById('appear');
+const roundDisplay = document.getElementById('round');
+
+
+function test (){
+  username = document.getElementById("myText").value;
+  finalMessage = `userName: ${username}`;
+  console.log(username);
+}
+
